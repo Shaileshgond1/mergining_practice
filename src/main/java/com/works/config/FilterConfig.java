@@ -1,5 +1,5 @@
 package com.works.config;
-
+//ok
 import com.works.entities.Logger;
 import com.works.services.UserService;
 import org.springframework.context.annotation.Configuration;
