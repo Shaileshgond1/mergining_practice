@@ -21,6 +21,7 @@ spec:
         - name: mycon
           image: sw1236/springboot-kubernetes-project:100
 
+
           startupProbe:
             httpGet:
               path: /actuator/prometheus
