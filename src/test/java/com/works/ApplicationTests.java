@@ -1,6 +1,5 @@
 package com.works;
-
-import org.junit.jupiter.api.Test;
+jupiter.api.Test;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
